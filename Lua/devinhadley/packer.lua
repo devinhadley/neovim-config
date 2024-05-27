@@ -65,4 +65,6 @@ return require('packer').startup(function(use)
 	  }
   })
 
+  use 'easymotion/vim-easymotion'
+
 end)
